@@ -1,6 +1,6 @@
-# Flappy-Bird
+# Flappy-Bird 🐦
 
-Flappy Bird game written in Python language using Pygame library. 🐦
+Flappy bird game written in Python language using Pygame library 😶‍🌫️
 
 ## Overview
 
@@ -21,10 +21,10 @@ To play the game, make sure you have Python and Pygame installed on your system.
 pip install pygame
 ```
 
-Once Pygame is installed, simply clone this repository and run the `flappy_bird.py` file to start the game:
+Once Pygame is installed, simply clone this repository and run the `main.py` file to start the game:
 
 ```bash
-python flappy_bird.py
+python main.py
 ```
 ## Controls
 
@@ -35,5 +35,11 @@ python flappy_bird.py
 
 This game was created by [Your Name] as a fun project to learn Python and game development with Pygame. Feel free to contribute to the project or use the code for your own purposes.
 
-Happy flapping! 🎮
+<div align="center">
+    <br>
+  <img src="assets/sprites/message.png" alt="Flappy Bird" width="200">
+</div>
+
+
+Happy flapping! 🎮💥🌟
 
