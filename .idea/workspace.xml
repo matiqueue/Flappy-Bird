@@ -4,47 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c04beaf0-76fe-4603-b2c3-c4d1c9508c4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/flappy-bird.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/audios/hit.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/audios/point.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/audios/wing.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/red_bird.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/floor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/gameover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/pipe-green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/redbird-downflap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/redbird-midflap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sprites/redbird-upflap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gaming.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/bird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/floor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/gameover_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/gamestart_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/score.py" afterDir="false" />
+    <list default="true" id="c04beaf0-76fe-4603-b2c3-c4d1c9508c4e" name="Changes" comment="Flappy bird">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +16,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "matiqueue"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/matiqueue/Flappy-Bird.git",
+    "accountId": "28243145-8df3-441d-9e36-20042c0ea54e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2gJzfMsVucyKFQaDzczIqln6RHv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/szymongoral/Projekty Programowania/flappy-bird"
   }
 }]]></component>
@@ -116,6 +93,15 @@
       <option name="presentableId" value="Default" />
       <updated>1715430570799</updated>
     </task>
+    <task id="LOCAL-00001" summary="Flappy bird">
+      <option name="closed" value="true" />
+      <created>1715431322196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715431322196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,10 +109,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Flappy bird" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flappy bird" />
   </component>
 </project>

@@ -1,0 +1,105 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c04beaf0-76fe-4603-b2c3-c4d1c9508c4e\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/flappy-bird.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/audios/hit.wav\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/audios/point.wav\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/audios/wing.wav\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/icons/red_bird.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/0.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/1.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/2.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/3.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/4.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/5.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/6.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/7.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/8.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/9.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/background.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/floor.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/gameover.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/message.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/pipe-green.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/redbird-downflap.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/redbird-midflap.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/sprites/redbird-upflap.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/configs.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/gaming.gif\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/layer.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/background.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/bird.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/column.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/floor.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/gameover_message.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/gamestart_message.py\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/objects/score.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 6\n}]]></component>\n  <component name=\"ProjectId\" id=\"2gJzfMsVucyKFQaDzczIqln6RHv\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.main.executor\": \"Run\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"last_opened_file_path\": \"/Users/szymongoral/Projekty Programowania/flappy-bird\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"flappy-bird\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c04beaf0-76fe-4603-b2c3-c4d1c9508c4e\" name=\"Changes\" comment=\"\" />\n      <created>1715430570799</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1715430570799</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 68e15886aa7b26b65f2a38b7337ef06551da9281)
++++ b/.idea/workspace.xml	(date 1715431629373)
+@@ -4,48 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c04beaf0-76fe-4603-b2c3-c4d1c9508c4e" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/flappy-bird.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/audios/hit.wav" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/audios/point.wav" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/audios/wing.wav" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/icons/red_bird.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/0.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/1.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/2.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/3.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/4.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/5.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/6.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/7.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/8.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/9.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/background.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/floor.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/gameover.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/message.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/pipe-green.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/redbird-downflap.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/redbird-midflap.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/sprites/redbird-upflap.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/configs.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/gaming.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/layer.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/background.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/bird.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/column.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/floor.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/gameover_message.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/gamestart_message.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/objects/score.py" afterDir="false" />
+-    </list>
++    <list default="true" id="c04beaf0-76fe-4603-b2c3-c4d1c9508c4e" name="Changes" comment="Flappy bird" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -54,6 +13,18 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "matiqueue"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/matiqueue/Flappy-Bird.git",
++    "accountId": "28243145-8df3-441d-9e36-20042c0ea54e"
++  }
++}]]></component>
+   <component name="ProjectColorInfo"><![CDATA[{
+   "associatedIndex": 6
+ }]]></component>
+@@ -116,6 +87,15 @@
+       <option name="presentableId" value="Default" />
+       <updated>1715430570799</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Flappy bird">
++      <option name="closed" value="true" />
++      <created>1715431322196</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1715431322196</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -129,4 +109,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Flappy bird" />
++    <option name="LAST_COMMIT_MESSAGE" value="Flappy bird" />
++  </component>
+ </project>
+\ No newline at end of file
